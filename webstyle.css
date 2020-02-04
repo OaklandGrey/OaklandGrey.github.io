@@ -47,7 +47,7 @@ a {
 }
 
 body {
-  background: linear-gradient(#e4980d, #3c0fe0); 
+  background: linear-gradient(#e4980d, #3c0fe0, black); 
   /* background-image: url('https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif'); */
   background-size: cover;
   height: 100vh;
